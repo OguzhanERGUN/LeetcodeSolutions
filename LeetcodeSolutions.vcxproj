@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="ContainsDuplicate.cpp" />
     <ClCompile Include="LeetcodeSolutions.cpp" />
+    <ClCompile Include="ValidAnagram.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
